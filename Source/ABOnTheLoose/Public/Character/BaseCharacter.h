@@ -21,6 +21,7 @@ protected:
 	virtual void Attack();
 	virtual void CanAttack();
 
+
 public:	
 	virtual void Tick(float DeltaTime) override;
 
